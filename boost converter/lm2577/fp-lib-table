@@ -1,0 +1,11 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "NODEMCU-32S")(type "KiCad")(uri "C:/Users/BHARGAVRAM107/Desktop/RESEARCH_PROJECT/NODEMCU-32S")(options "")(descr ""))
+  (lib (name "MAX485")(type "KiCad")(uri "C:/Users/BHARGAVRAM107/Desktop/RESEARCH_PROJECT/MAX485")(options "")(descr ""))
+  (lib (name "282834-4")(type "KiCad")(uri "C:/Users/BHARGAVRAM107/Desktop/RESEARCH_PROJECT/282834-4")(options "")(descr ""))
+  (lib (name "DCJ200-10-A-XX-K_REVA")(type "KiCad")(uri "C:/Users/BHARGAVRAM107/Desktop/RESEARCH_PROJECT/DCJ200-10-A-XX-K_REVA")(options "")(descr ""))
+  (lib (name "DHT22")(type "KiCad")(uri "${KIPRJMOD}/DHT22")(options "")(descr ""))
+  (lib (name "ZC362800_")(type "KiCad")(uri "${KIPRJMOD}/ZC362800_")(options "")(descr ""))
+  (lib (name "AMS1117-3.3")(type "KiCad")(uri "${KIPRJMOD}/AMS1117-3.3")(options "")(descr ""))
+  (lib (name "BMP180")(type "KiCad")(uri "${KIPRJMOD}/BMP180")(options "")(descr ""))
+)

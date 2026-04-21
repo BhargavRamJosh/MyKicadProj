@@ -1,0 +1,11 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "LM2577T-12")(type "KiCad")(uri "${KIPRJMOD}/LM2577T-12/LM2577T-12.kicad_sym")(options "")(descr ""))
+  (lib (name "NODEMCU-32S")(type "KiCad")(uri "C:/Users/BHARGAVRAM107/Desktop/RESEARCH_PROJECT/NODEMCU-32S/NODEMCU-32S.kicad_sym")(options "")(descr ""))
+  (lib (name "MAX485")(type "KiCad")(uri "C:/Users/BHARGAVRAM107/Desktop/RESEARCH_PROJECT/MAX485/MAX485.kicad_sym")(options "")(descr ""))
+  (lib (name "DCJ200-10-A-XX-K_REVA")(type "KiCad")(uri "C:/Users/BHARGAVRAM107/Desktop/RESEARCH_PROJECT/DCJ200-10-A-XX-K_REVA/DCJ200-10-A-XX-K_REVA.kicad_sym")(options "")(descr ""))
+  (lib (name "DHT22")(type "KiCad")(uri "${KIPRJMOD}/DHT22/DHT22.kicad_sym")(options "")(descr ""))
+  (lib (name "ZC362800_")(type "KiCad")(uri "${KIPRJMOD}/ZC362800_/ZC362800_.kicad_sym")(options "")(descr ""))
+  (lib (name "BMP180")(type "KiCad")(uri "${KIPRJMOD}/BMP180/BMP180.kicad_sym")(options "")(descr ""))
+  (lib (name "MP2315GJ-Z")(type "Legacy")(uri "${KIPRJMOD}/MP2315GJ-Z- Monolithic Power Systems Inc.-Symbol-Kicad-294437/MP2315GJ-Z.lib")(options "")(descr ""))
+)
